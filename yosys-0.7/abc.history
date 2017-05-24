@@ -1,0 +1,3 @@
+source abc.rc
+source ..\abc.rc
+source ..\..\abc.rc
