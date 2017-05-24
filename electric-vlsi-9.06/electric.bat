@@ -1,0 +1,1 @@
+java.exe -classpath "C:\[xbin]\bin\electricBinary-9.06.jar;C:\[xbin]\bin\electricSFS-9.07.jar;C:\[xbin]\bin\j3dcore.jar;C:\[xbin]\bin\j3dutils.jar;C:\[xbin]\bin\vecmath.jar;C:\[xbin]\bin\bsh-2.0b1.jar;C:\[xbin]\bin\bsh-2.0b4.jar;C:\[xbin]\bin\jython-installer-2.7.0.jar;C:\[xbin]\bin\jython-standalone-2.7.0.jar" com.sun.electric.Launcher

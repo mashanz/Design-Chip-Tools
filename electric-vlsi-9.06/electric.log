@@ -1,0 +1,160 @@
+Electric Version 9.06
+--------------- 0 --------------
+  Tue May 23 10:40:13 ICT 2017
+Menu Activated: File | Open Library...
+--------------- 1 --------------
+  Tue May 23 10:42:20 ICT 2017
+ProcessKeyBinding 401 when=1495510940841 modifiers=80 code=11 char=ffff false true
+--------------- 2 --------------
+  Tue May 23 10:42:22 ICT 2017
+ProcessKeyBinding 402 when=1495510941656 modifiers=0 code=11 char=ffff false true
+--------------- 3 --------------
+  Tue May 23 10:42:31 ICT 2017
+ProcessKeyBinding 402 when=1495510951649 modifiers=0 code=a char=a false true
+--------------- 4 --------------
+  Tue May 23 10:42:32 ICT 2017
+ProcessKeyBinding 402 when=1495510952445 modifiers=0 code=8 char=8 false true
+--------------- 5 --------------
+  Tue May 23 10:42:33 ICT 2017
+ProcessKeyBinding 402 when=1495510953968 modifiers=0 code=8 char=8 false true
+--------------- 6 --------------
+  Tue May 23 10:42:34 ICT 2017
+ProcessKeyBinding 401 when=1495510954515 modifiers=80 code=11 char=ffff false true
+--------------- 7 --------------
+  Tue May 23 10:42:35 ICT 2017
+ProcessKeyBinding 402 when=1495510955550 modifiers=0 code=11 char=ffff false true
+--------------- 8 --------------
+  Tue May 23 10:42:41 ICT 2017
+ProcessKeyBinding 401 when=1495510961577 modifiers=200 code=12 char=ffff false true
+--------------- 9 --------------
+  Tue May 23 10:42:52 ICT 2017
+ProcessKeyBinding 401 when=1495510972377 modifiers=80 code=11 char=ffff false true
+--------------- 10 --------------
+  Tue May 23 10:42:55 ICT 2017
+ProcessKeyBinding 402 when=1495510975417 modifiers=0 code=11 char=ffff false true
+--------------- 11 --------------
+  Tue May 23 10:43:14 ICT 2017
+ProcessKeyBinding 402 when=1495510994202 modifiers=0 code=8 char=8 false true
+--------------- 12 --------------
+  Tue May 23 10:43:14 ICT 2017
+ProcessKeyBinding 402 when=1495510994386 modifiers=0 code=8 char=8 false true
+--------------- 13 --------------
+  Tue May 23 10:43:14 ICT 2017
+ProcessKeyBinding 402 when=1495510994535 modifiers=0 code=8 char=8 false true
+--------------- 14 --------------
+  Tue May 23 10:43:15 ICT 2017
+ProcessKeyBinding 401 when=1495510995008 modifiers=200 code=12 char=ffff false true
+--------------- 15 --------------
+  Tue May 23 10:43:46 ICT 2017
+ProcessKeyBinding 401 when=1495511026657 modifiers=80 code=11 char=ffff false true
+--------------- 16 --------------
+  Tue May 23 10:43:46 ICT 2017
+Menu Activated: File | Open Library...
+--------------- 17 --------------
+  Tue May 23 10:44:22 ICT 2017
+ProcessKeyBinding 401 when=1495511062917 modifiers=200 code=12 char=ffff false true
+--------------- 18 --------------
+  Tue May 23 10:44:30 ICT 2017
+ProcessKeyBinding 401 when=1495511070366 modifiers=200 code=12 char=ffff false true
+--------------- 19 --------------
+  Tue May 23 10:44:43 ICT 2017
+ProcessKeyBinding 401 when=1495511083865 modifiers=80 code=11 char=ffff false true
+--------------- 20 --------------
+  Tue May 23 10:44:45 ICT 2017
+ProcessKeyBinding 402 when=1495511085079 modifiers=0 code=11 char=ffff false true
+--------------- 21 --------------
+  Tue May 23 10:44:54 ICT 2017
+Menu Activated: Tools | Silicon Compiler | Compile Verilog to Netlist View
+--------------- 22 --------------
+  Tue May 23 10:45:02 ICT 2017
+Menu Activated: Tools | Silicon Compiler | Convert Current Cell to Layout
+--------------- 23 --------------
+  Tue May 23 10:51:09 ICT 2017
+ProcessKeyBinding 401 when=1495511469729 modifiers=80 code=11 char=ffff false false
+--------------- 24 --------------
+  Tue May 23 10:51:09 ICT 2017
+Menu Activated: File | Open Library...
+--------------- 25 --------------
+  Tue May 23 10:51:09 ICT 2017
+ProcessKeyBinding 400 when=1495511469769 modifiers=80 code=0 char=f false false
+--------------- 26 --------------
+  Tue May 23 10:51:14 ICT 2017
+ProcessKeyBinding 402 when=1495511474382 modifiers=0 code=a char=a false false
+--------------- 27 --------------
+  Tue May 23 10:51:44 ICT 2017
+ProcessKeyBinding 401 when=1495511504576 modifiers=200 code=12 char=ffff false false
+--------------- 28 --------------
+  Tue May 23 10:52:17 ICT 2017
+ProcessKeyBinding 401 when=1495511537699 modifiers=80 code=11 char=ffff false true
+--------------- 29 --------------
+  Tue May 23 10:52:18 ICT 2017
+ProcessKeyBinding 402 when=1495511538416 modifiers=0 code=11 char=ffff false true
+--------------- 30 --------------
+  Tue May 23 10:52:22 ICT 2017
+Menu Activated: Tools | Silicon Compiler | Compile Verilog to Netlist View
+--------------- 31 --------------
+  Tue May 23 10:52:28 ICT 2017
+Menu Activated: Tools | Silicon Compiler | Convert Current Cell to Layout
+--------------- 32 --------------
+  Tue May 23 10:52:56 ICT 2017
+ProcessKeyBinding 401 when=1495511576350 modifiers=200 code=12 char=ffff false false
+--------------- 33 --------------
+  Tue May 23 10:53:57 ICT 2017
+ProcessKeyBinding 401 when=1495511637495 modifiers=80 code=11 char=ffff false false
+--------------- 34 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638041 modifiers=80 code=11 char=ffff false false
+--------------- 35 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638073 modifiers=80 code=11 char=ffff false false
+--------------- 36 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638107 modifiers=80 code=11 char=ffff false false
+--------------- 37 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638142 modifiers=80 code=11 char=ffff false false
+--------------- 38 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638176 modifiers=80 code=11 char=ffff false false
+--------------- 39 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638212 modifiers=80 code=11 char=ffff false false
+--------------- 40 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638246 modifiers=80 code=11 char=ffff false false
+--------------- 41 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638282 modifiers=80 code=11 char=ffff false false
+--------------- 42 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638316 modifiers=80 code=11 char=ffff false false
+--------------- 43 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638352 modifiers=80 code=11 char=ffff false false
+--------------- 44 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638386 modifiers=80 code=11 char=ffff false false
+--------------- 45 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638421 modifiers=80 code=11 char=ffff false false
+--------------- 46 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 401 when=1495511638455 modifiers=80 code=11 char=ffff false false
+--------------- 47 --------------
+  Tue May 23 10:53:58 ICT 2017
+Menu Activated: File | Open Library...
+--------------- 48 --------------
+  Tue May 23 10:53:58 ICT 2017
+ProcessKeyBinding 400 when=1495511638471 modifiers=80 code=0 char=f false false
+--------------- 49 --------------
+  Tue May 23 10:54:09 ICT 2017
+Menu Activated: Tools | Silicon Compiler | Convert Current Cell to Layout
+--------------- 50 --------------
+  Tue May 23 10:54:38 ICT 2017
+ProcessKeyBinding 401 when=1495511678537 modifiers=80 code=11 char=ffff false false
+--------------- 51 --------------
+  Tue May 23 10:54:38 ICT 2017
+ProcessKeyBinding 402 when=1495511678736 modifiers=0 code=11 char=ffff false false
+--------------- 52 --------------
+  Tue May 23 10:56:22 ICT 2017
+Menu Activated: Tools | Silicon Compiler | Convert Current Cell to Layout
